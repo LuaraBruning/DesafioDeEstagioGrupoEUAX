@@ -3,6 +3,7 @@ Desafio de Estágio do Grupo EUAX - Web Developer
 
 ## A tecnologia utilizada foi o banco de dados PostgreSQL(PgAdmin)
 
+*Após a criação do banco de dados, de acordo com o arquivo codigobd.sql.
 #### Na primeira imagem, através do comando mostrado, se tem todos os projetos cadastrados no sistemas.
 ![image](https://user-images.githubusercontent.com/42983692/107554359-9a2f2b80-6bb4-11eb-8697-d88864ff081a.png)
 ![image](https://user-images.githubusercontent.com/42983692/107523567-a1920d00-6b93-11eb-8da5-ae0dfd6f1a66.png)
